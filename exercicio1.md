@@ -1,4 +1,4 @@
-# Exercício 1
+# Exercício 1 PORTUGESE
 
 Utilize `grid-template` na barra de navegação e na área de galeria, com as seguintes instruções:
 
@@ -10,4 +10,14 @@ Utilize `grid-template` na barra de navegação e na área de galeria, com as se
   - 3 colunas
   - 8 linhas de 100px cada
 
+# Exercício 1 ENGLISH
+Use `grid-template` in the navigation bar and gallery area, with the following instructions:
+
+   - Navigation bar:
+     - just one column;
+     - 3 lines, the last two with 40px, and the first with all the remaining space
+    
+- Gallery:
+   - 3 columns
+   - 8 lines of 100px each
 
